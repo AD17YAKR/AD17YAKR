@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Kumar Singh</h1>
-<h3 align="center">SDE Intern@Locofast</h3>
+<h3 align="center">Ex-SDE Intern@Locofast | Ex- Flutter Development Intern @ Beta Teseters</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ad17yakr&label=Profile%20views&color=0e75b6&style=flat" alt="ad17yakr" /> </p>
 
