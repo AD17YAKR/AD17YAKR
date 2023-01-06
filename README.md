@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ad17yakr" alt="ad17yakr" /></a> </p>
 
-- 🌱 I’m currently learning **NestJs ,**
+- 🌱 I’m currently learning **Go ,**
 
 - 💬 Ask me about **Flutter**
 
