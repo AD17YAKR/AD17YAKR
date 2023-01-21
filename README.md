@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **adityasingh.110601@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1yPl-kcNB-ANhJnY-lkfKcRQ_2L0R-GUz/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1QQnNhPXCE55U886QRbqqa_Nqb6c1uFKJ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
