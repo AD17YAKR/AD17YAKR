@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Kumar Singh</h1>
-<h3 align="center">Ex-SDE Intern@Locofast | Ex- Flutter Development Intern @ Beta Teseters</h3>
+<h3 align="center">Software Engineer@ EzeRxEx-SDE Intern@Locofast | Ex- Flutter Development Intern @ Beta Teseters</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ad17yakr&label=Profile%20views&color=0e75b6&style=flat" alt="ad17yakr" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ad17yakr" alt="ad17yakr" /></a> </p>
 
@@ -11,7 +10,7 @@
 
 - 📫 How to reach me **adityasingh.110601@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1QQnNhPXCE55U886QRbqqa_Nqb6c1uFKJ/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1egyQTM7vygxpi6xQjsaGqyXD3R6mmbRp/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
