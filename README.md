@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Kumar Singh</h1>
-<h3 align="center">Software Engineer@ EzeRxEx-SDE Intern@Locofast | Ex- Flutter Development Intern @ Beta Teseters</h3>
+<h3 align="center">Software Engineer@ EzeRx | Ex-SDE Intern@Locofast | Ex- Flutter Development Intern @ Beta Teseters</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ad17yakr" alt="ad17yakr" /></a> </p>
