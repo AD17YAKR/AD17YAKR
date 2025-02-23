@@ -1,21 +1,22 @@
-```bash
+```dart
+// Aditya Kumar Singh's Resume in Dart (No Printing)
 
-# Clear the screen for dramatic effect
-clear
+// Profile
+const String profile = "Aditya Kumar Singh";
+const String contact = "Kolkata, India | adityasingh.110601@gmail.com";
 
-# Define colors for fun
-RED='\033[0;31m'
-GREEN='\033[0;32m'
-YELLOW='\033[1;33m'
-NC='\033[0m' # No Color
+// Experience
+const List<String> experience = [
+  "Accenture (Apr '24 - Present): Automated Salesforce migration, saving 75% time.",
+  "EzeRx (Sep '23 - Mar '24): Mobile App Developer & Employee of the Month."
+];
 
-echo -e "${YELLOW}--------------------------------------------${NC}"
-echo -e "${GREEN}  Aditya Kumar Singh"
-echo -e "${YELLOW}--------------------------------------------${NC}\n"
+// Education
+const String education =
+    "B.Tech in Computer Science & Engineering, Ramkrishna Mahato Govt. Engineering College (CGPA: 9.18)";
 
-echo -e "${RED}Profile:${NC}"
-echo "Location: Kolkata, India"
-echo "Email: adityasingh.110601@gmail.com"
-echo ""
+// Skills
+const List<String> skills = ["C++", "Java", "Python", "Flutter", "Spring Boot", "Docker"];
 
-echo "When life gives me lemons, I'm planting them to grow even more."
+// Fun Fact
+const String funFact = "When life gives me lemons, I'm planting them to grow even more.";
