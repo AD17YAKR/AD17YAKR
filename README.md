@@ -18,4 +18,5 @@ const String education =
 const List<String> skills = ["C++", "Java", "Python", "Flutter", "Spring Boot", "Docker"];
 
 // Fun Fact
-const String funFact = "When life gives me lemons, I'm planting them to grow even more.";
+const String funFact = "Good Things On the Way";
+
