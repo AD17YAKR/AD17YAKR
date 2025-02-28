@@ -1,5 +1,4 @@
 ```dart
-// Aditya Kumar Singh's Resume in Dart (No Printing)
 
 // Profile
 const String profile = "Aditya Kumar Singh";
